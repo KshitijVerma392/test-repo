@@ -1,3 +1,4 @@
 # test-repo
 This is my first git repo
-- Kshitij Verma
+<br>
+Author - Kshitij Verma
